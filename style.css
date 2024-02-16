@@ -9,6 +9,7 @@ ul{
 p,h3{
     margin: 0;
 }
+
 .nav-list-link{
     gap: 93px;
 font-family: Roboto;
@@ -124,7 +125,7 @@ left: 215px;
 
 .work-title{
     min-height: 100px;
-
+justify-content: center;
  margin-left: 570px;
     display: flex;
     font-family: Roboto;
@@ -260,6 +261,14 @@ color: #FFFFFF;
     gap: 8px;
     margin-bottom: 34px;
 
+}
+
+.filters-list-bth{
+    height: 30px;
+    gap: 10px;
+    width: 90px;
+    background-color: white;
+    color: rgb(58, 141, 230);
 }
 .section-features{
     margin: 0 auto;
